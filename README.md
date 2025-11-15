@@ -65,8 +65,8 @@ TireStudDetector/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/TireStudDetector.git
-   cd TireStudDetector
+   git clone https://github.com/HammadKhalid75/Lab-9.git
+   cd Lab-9
    ```
 
 2. **Open MATLAB** and run:
